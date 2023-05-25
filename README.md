@@ -1,27 +1,28 @@
-# NgAmcharts
+# A simple [Angular](https://angular.io/) application with AmCharts!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+> **Integrate AmCharts into Angular project and created a simple line chart component!.**
 
-## Development server
+![Line chart component](https://kumargandhi.github.io/assets/ng-amcharts/NgAmCharts.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Checkout [AmCharts](https://www.amcharts.com/javascript-charts/) website docs for more information on charting capabilities.
 
-## Code scaffolding
+Created with `angular cli $ng new`. See the [Guide](https://angular.io/tutorial/toh-pt0).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Live URL :-
 
-## Build
+> [ng-amcharts](https://ng-amcharts.netlify.app/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**OR your can do the following to run in your local machine**
 
-## Running unit tests
+## Scripts
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Install node modules
 
-## Running end-to-end tests
+#### `npm install`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+In the project directory, you can run:
 
-## Further help
+#### `npm start`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Runs the app in the development mode.<br>
+Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
